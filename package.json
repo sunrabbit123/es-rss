@@ -1,6 +1,6 @@
 {
   "name": "es-rss",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A lightweight TypeScript library for parsing RSS and Atom feeds into structured JavaScript objects",
   "type": "module",
   "main": "./dist/index.cjs",
